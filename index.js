@@ -130,5 +130,5 @@ console.log(`Total Months: ${totalMonths}`);
 console.log(`Total: $${totalCash}`);
 console.log(`Average Change: ${averageChange.toFixed(2)}`);
 console.log(`Greatest Increase in Profits/Losses: ${highestMonth} ($${maxProfit})`);
-console.log(`Greatest Decrease in Profits/Losses: ${lowestMonth} ($${maxLoss})`);ls
+console.log(`Greatest Decrease in Profits/Losses: ${lowestMonth} ($${maxLoss})`);
 
