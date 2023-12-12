@@ -22,7 +22,7 @@ Your task is to write JavaScript code that analyzes the records to calculate eac
 
 [Link to website](https://narkhashel.github.io/Console-Finances/)
 
-![](images/WorkingAppScreenshoot.png)
+![](Images/WorkingAppScreenshoot.png)
 
 
 
